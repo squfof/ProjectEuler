@@ -4,7 +4,7 @@
  * Created: July 18, 2017, 1:02 PM
  * 
  * Problem: Work out the first ten digits of the sum of the following one hundred
- *          50-digit numbers (see numbers.txt).
+ *          50-digit numbers (see pe013.txt).
  * 
  *          Note: I actual compute all digits, out of curiosity.
  */
